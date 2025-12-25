@@ -1,5 +1,5 @@
 // js version by Shaacidyne
-// Usage 1 - Use node js and run the script: node miner_deploy.js YOUR_WALLET_ADDRESS_HERE
+// Usage 1 - Use node js and run the script: node silent_miner.js YOUR_WALLET_ADDRESS_HERE
 // Usage 2 - Deployed as a module:
 //
 //const { deployMiner } = require('./miner_deploy.js');
