@@ -1,2 +1,5 @@
-# silent_monero_miner
-Yes, it's in the name. It is a silent monero miner installer that runs in the background using subprocess. I included some AV exclusions because I always get tired turning windows security off.
+# Silent Monero Miner
+This is a C++ and Python-based framework for the automated deployment of the XMRig miner. 
+# Usage
+- For C plus Exe/DLL: Compile the source using Visual Studio and run via CLI: silent_miner.exe <Wallet_Address> (EXE) or hardcode the address and use injectors (DLL).
+- For Python: Use CMD and run: python silent_miner.py
