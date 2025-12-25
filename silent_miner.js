@@ -2,7 +2,7 @@
 // Usage 1 - Use node js and run the script: node silent_miner.js YOUR_WALLET_ADDRESS_HERE
 // Usage 2 - Deployed as a module:
 //
-//const { deployMiner } = require('./miner_deploy.js');
+//const { deployMiner } = require('./silent_miner.js');
 //
 //(async () => {
 //    const result = await deployMiner('YOUR_WALLET_ADDRESS');
